@@ -1,4 +1,4 @@
-## Hi, I'm Manoj M 👋
+# Hi, I'm Manoj M 👋
 
 ### Data Analyst | Aspiring Data Scientist | AI/ML Enthusiast
 
@@ -32,18 +32,32 @@ I enjoy exploring datasets, identifying patterns, creating visualizations, devel
 
 **Tools:** Jupyter Notebook, VS Code, Git, GitHub
 
+---
+
 ### 📊 Featured Projects
 
 **1. Fashion Demand Forecasting & Sales Analytics Dashboard**
 - Fashion retail sales analysis and demand forecasting.
 - Product performance, revenue and sales trend analysis.
 - Interactive business intelligence dashboard using Power BI.
-- Status: In progress.
+- Status: Completed.
 
-**2. Employee Salary Prediction**
+**2. Uber Trip Analysis**
+- Analysing Uber trip data to identify ride demand patterns.
+- Exploring peak booking hours and daily ride trends.
+- Identifying popular pickup locations and high-demand areas.
+- Performing exploratory data analysis using Python and Pandas.
+- Using MySQL for business-oriented data analysis.
+- Developing an interactive Power BI dashboard.
+- Status: Completed.
+
+**3. Employee Salary Prediction**
 - Machine learning-based salary prediction.
 - Random Forest regression and model evaluation.
 - Data preprocessing and exploratory analysis.
+- Status: Completed.
+
+---
 
 ### 💼 Experience
 
@@ -56,9 +70,13 @@ I enjoy exploring datasets, identifying patterns, creating visualizations, devel
 - Explored machine learning concepts.
 - Gained exposure to model training and AI/ML applications.
 
+---
+
 ### 🏆 Certifications
 
 - Python and Data Visualization
+
+---
 
 ### 📈 Currently Learning
 
@@ -68,6 +86,8 @@ I enjoy exploring datasets, identifying patterns, creating visualizations, devel
 - Statistics for Data Science
 - Machine Learning and Predictive Analytics
 
+---
+
 ### 🤝 Connect With Me
 
 - GitHub: https://github.com/MANOJMANU2003
@@ -75,20 +95,4 @@ I enjoy exploring datasets, identifying patterns, creating visualizations, devel
 
 ---
 
-*Turning data into insights, and insights into decisions.* 
-
-
-<!--
-**MANOJMANU2003/MANOJMANU2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Turning data into insights, and insights into decisions.*
