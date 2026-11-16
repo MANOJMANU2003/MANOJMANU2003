@@ -34,14 +34,6 @@ I enjoy exploring datasets, identifying patterns, creating visualizations, devel
 
 ---
 
-### 📊 Featured Projects
-
-**1. Fashion Demand Forecasting & Sales Analytics Dashboard**
-- Fashion retail sales analysis and demand forecasting.
-- Product performance, revenue and sales trend analysis.
-- Interactive business intelligence dashboard using Power BI.
-- Status: Completed.
-
 **2. Uber Trip Analysis**
 - Analysing Uber trip data to identify ride demand patterns.
 - Exploring peak booking hours and daily ride trends.
