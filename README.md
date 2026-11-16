@@ -34,7 +34,7 @@ I enjoy exploring datasets, identifying patterns, creating visualizations, devel
 
 ---
 
-**2. Uber Trip Analysis**
+**1. Uber Trip Analysis**
 - Analysing Uber trip data to identify ride demand patterns.
 - Exploring peak booking hours and daily ride trends.
 - Identifying popular pickup locations and high-demand areas.
@@ -43,7 +43,7 @@ I enjoy exploring datasets, identifying patterns, creating visualizations, devel
 - Developing an interactive Power BI dashboard.
 - Status: Completed.
 
-**3. Employee Salary Prediction**
+**2. Employee Salary Prediction**
 - Machine learning-based salary prediction.
 - Random Forest regression and model evaluation.
 - Data preprocessing and exploratory analysis.
